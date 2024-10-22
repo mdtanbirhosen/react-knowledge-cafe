@@ -1,13 +1,13 @@
-
 import './App.css'
+import Blogs from './components/blogs/Blogs'
+import Header from './components/header/Header'
 
 function App() {
 
   return (
     <>
-      
-      <h1 className='text-blue-300 text-4xl'>knowledge cafe</h1>
-      
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }

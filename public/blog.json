@@ -1,0 +1,196 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    },
+    
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/qjMkY0c/cover1.png",
+        "title": "Python for Data Science: A Beginner's Guide",
+        "author_img": "https://i.ibb.co/8PXz2kF/author1.jpg",
+        "author": "Ravi Kapoor",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "python",
+            "data-science",
+            "analytics"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/J5cHj5T/cover2.png",
+        "title": "Mastering CSS Grids: Design Like a Pro",
+        "author_img": "https://i.ibb.co/cLkDLmH/author2.jpg",
+        "author": "Emily White",
+        "posted_date": "October 1, 2023",
+        "reading_time": 3,
+        "hashtags": [
+            "css",
+            "design",
+            "frontend"
+        ]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/LR5sxdK/cover3.png",
+        "title": "React in Action: Building Dynamic UIs",
+        "author_img": "https://i.ibb.co/8mhRczY/author3.jpg",
+        "author": "James O'Reilly",
+        "posted_date": "July 10, 2023",
+        "reading_time": 6,
+        "hashtags": [
+            "react",
+            "javascript",
+            "frontend"
+        ]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/VL6TkLF/cover4.png",
+        "title": "Introduction to Machine Learning with Python",
+        "author_img": "https://i.ibb.co/xz5LfWt/author4.jpg",
+        "author": "Maya Rao",
+        "posted_date": "November 5, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "machine-learning",
+            "python",
+            "ai"
+        ]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co/3K3F9cD/cover5.png",
+        "title": "DevOps Essentials: Building Efficient CI/CD Pipelines",
+        "author_img": "https://i.ibb.co/SXyfNBc/author5.jpg",
+        "author": "Alex Carter",
+        "posted_date": "June 20, 2023",
+        "reading_time": 7,
+        "hashtags": [
+            "devops",
+            "ci-cd",
+            "cloud"
+        ]
+    },
+    {
+        "id": 11,
+        "cover": "https://i.ibb.co/3ScsByr/cover6.png",
+        "title": "Kotlin for Android Developers: A Comprehensive Guide",
+        "author_img": "https://i.ibb.co/DgVBqzp/author6.jpg",
+        "author": "Priya Mehta",
+        "posted_date": "April 18, 2023",
+        "reading_time": 6,
+        "hashtags": [
+            "kotlin",
+            "android",
+            "mobile"
+        ]
+    },
+    {
+        "id": 12,
+        "cover": "https://i.ibb.co/qDq5Gh3/cover7.png",
+        "title": "GraphQL Basics: Simplifying Data Fetching",
+        "author_img": "https://i.ibb.co/3T4L7W7/author7.jpg",
+        "author": "Nathan Scott",
+        "posted_date": "May 23, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "graphql",
+            "api",
+            "data"
+        ]
+    },
+    {
+        "id": 13,
+        "cover": "https://i.ibb.co/DMDg9kx/cover8.png",
+        "title": "TypeScript for Modern Web Development",
+        "author_img": "https://i.ibb.co/4TXW8Mg/author8.jpg",
+        "author": "Clara Wilson",
+        "posted_date": "August 12, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "typescript",
+            "javascript",
+            "web-dev"
+        ]
+    },
+    {
+        "id": 14,
+        "cover": "https://i.ibb.co/THsp3KY/cover9.png",
+        "title": "Node.js Crash Course: Building Scalable Applications",
+        "author_img": "https://i.ibb.co/pR2Rc8g/author9.jpg",
+        "author": "Liam Patterson",
+        "posted_date": "September 30, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "nodejs",
+            "backend",
+            "javascript"
+        ]
+    }
+]

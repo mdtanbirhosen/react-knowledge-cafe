@@ -2,8 +2,8 @@
 
 const Header = () => {
     return (
-        <div>
-            <h1 className='text-4xl font-bold'>knowledge cafe</h1>
+        <div className="">
+            <h1 className='text-4xl font-bold p-7'>knowledge cafe</h1>
         </div>
     );
 };
